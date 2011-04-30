@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 """
-gmconvert_cli_2.py
+gmconvert.py
 
 Created by Brant Faircloth on 28 April 2011.
 Copyright 2011 Brant C. Faircloth. All rights reserved.
