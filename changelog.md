@@ -16,3 +16,6 @@
 
 * v0.3.2
     * Fixed a spacing issue for the Cervus output format
+
+* v0.5
+    * Complete rewrite to take advantage of labelled arrays, result stacking and and xlsx output
